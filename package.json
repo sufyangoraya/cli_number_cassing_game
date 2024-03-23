@@ -1,6 +1,6 @@
 {
-  "name": "@sufi86_cli_number_gaussing",
-  "version": "1.0.0",
+  "name": "sufi86_cli_number_gaussing_game",
+  "version": "2.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
